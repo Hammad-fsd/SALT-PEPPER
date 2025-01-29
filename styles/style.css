@@ -1,4 +1,7 @@
 /* Navbar Started */
+body{
+    font-family: fut;
+}
 #Logo{
     width: 165px;
     height: 70px;
@@ -433,3 +436,11 @@ button{
     margin: 20px;
     padding: 20px;
 }
+.single1{
+    width: 1349px;
+    height: 630.5px;
+   background-color: #212519;
+   color: #ffffff;
+}
+
+
